@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1302684089.svg)](https://doi.org/10.5281/zenodo.21395180)
 # TPMS-Electrode-Generator
 Python script for generating and analyzing Gyroid and Schwarz P TPMS architectures
 Features
@@ -14,3 +15,5 @@ SciPy: For spatial and distance transformations.
 scikit-image: Specifically skimage.measure.marching_cubes to convert voxel grids into mesh models.
 
 Trimesh (Optional): For handling and inspecting exported STL meshes.
+
+
